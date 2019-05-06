@@ -1,7 +1,7 @@
 # VR_LaunchPad
 
-2018년 전공 3학년 2학기 캡스톤디자인 과목에서  
-텀프로젝트로 개발한 프로젝트 입니다
+2018년 전공 3학년 2학기 캡스톤디자인으로 개발한 프로젝트 입니다
+
 ### <컨셉>
 EDM분야에서 인기있는 연주기기인 **LaunchPad**와 (https://youtu.be/lekfZs1jJH0)  
 **AFISHAL**이 제작한 **Visual Drum**에서 (https://youtu.be/gCIFdJMl8S0)  
@@ -44,7 +44,6 @@ Load 메뉴를 통해 방금 편집한 음악이나, 공유 받은 음악을 연
 VR 개발을 위하여 SteamVR Plugin을 사용하였습니다  
 VR기기는 HTC Vive와 Vive Controller를 사용하였습니다  
 Unity 2018.1.1 버전에서 제작하였습니다
-
 <br /><br /><br />
-**플레이영상**은 여기서 보실 수 있습니다  
-https://youtu.be/GST3hLrHQT0
+**데모영상**은 여기서 보실 수 있습니다  
+https://youtu.be/l342XYsW_NI
